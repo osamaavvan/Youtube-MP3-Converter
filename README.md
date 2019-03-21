@@ -1,4 +1,4 @@
-# Youtube-MP3-Downloader
+# Youtube-MP3-Converter
 
 Simple Youtube Video to MP3 Converter.
 
